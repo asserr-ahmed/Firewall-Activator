@@ -24,7 +24,7 @@ Designed for beginners, students, and anyone who wants quick command‑line cont
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/asserhelmy1-stack/Firewall-Activator.git
+ git clone https://github.com/asserhelmy1-stack/Firewall-Activator.git
 cd Firewall-Activator
 ```
 
@@ -41,9 +41,9 @@ python --version
 macOS (Terminal)
 1. Open Terminal
 2. Navigate to the project folder (paste into the Terminal) :
-   cd ```"/Users/YourUser/Documents/VS Code projects/Firewall_Activator"```
+   cd ``` "/Users/YourUser/Documents/VS Code projects/Firewall_Activator"```
 3. Run the script (paste into the Terminal) :
-    ```python3 firewall_manager.py```
+    ``` python3 firewall_manager.py```
 4. Enter your choice from the menu
 5. MacOS might ask for your password -- this is normal for firewall changes
 
@@ -51,9 +51,9 @@ macOS (Terminal)
 Windows (Powershell)
 1. Open PowerShell as Administrator
 2. Navigate to the project folder (paste into Powershell) :
-  ```cd "C:\Users\YourName\Documents\Firewall_Activator"```
+  ``` cd "C:\Users\YourName\Documents\Firewall_Activator"```
 3. Run the script (paste into Powershell) :
-   ```python firewall_manager.py```
+   ``` python firewall_manager.py```
 4. Choose an option from the menu
 5. Windows will apply the firewall changes immediately
 

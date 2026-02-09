@@ -86,10 +86,5 @@ This project is open-source. You may modify or distribute it as needed.
 
 
 
-███████╗ ██╗ ███████╗██╗    ██╗  █████╗  ██╗      ██╗
-██╔════╝ ██║ ██╔════╝██║    ██║ ██╔══██╗ ██║      ██║
-█████╗   ██║ █████╗  ██║ █╗ ██║ ███████║ ██║      ██║
-██╔══╝   ██║ ██╔══╝  ██║███╗██║ ██╔══██║ ██║      ██║
-██║      ██║ ███████╗╚███╔███╔╝ ██║  ██║ ███████╗ ███████╗
 
 A cross‑platform firewall controller for macOS & Windows.

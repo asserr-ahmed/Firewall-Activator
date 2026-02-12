@@ -1,14 +1,14 @@
 
 A cross‑platform firewall controller for macOS & Windows.
 
-# 🔥 Firewall Activator
+#  Firewall Activator
 
 A simple, cross‑platform Python tool that allows you to **enable**, **disable**, and **check the status** of the system firewall on **macOS** and **Windows**.  
 Designed for beginners, students, and anyone who wants quick command‑line control over firewall settings.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Enable the firewall  
 - Disable the firewall  
@@ -58,7 +58,7 @@ Windows (Powershell)
 5. Windows will apply the firewall changes immediately
 
 
-📘 Tutorial: Using Firewall Activator
+Tutorial: Using Firewall Activator
 When you run the script, you’ll see:
 
 === Firewall Manager ===
